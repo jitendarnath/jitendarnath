@@ -21,7 +21,7 @@ Currently looking for an internship in the web development and designing field.
 
 I love exploring new front-end technologies and experimenting them with building prototypes.:shipit: </br>
 In this lockdown, I attempted to delve myself into learning Data Science and Machine Learning. 🌱</br>
-And have also recently started to practice solving code problems on GFG to tackle those Coding Rounds.
+And have also recently started to practice solving code problems to tackle them in the Coding Rounds.
 
 ## Reach Me: </br>
 :handshake: Make connections on [Linkedin](https://www.linkedin.com/in/jitendarnath/)          
