@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I am a CS undergraduate at **Vemana Institute of Technolgy, B'luru | India**. </br>
 Currently looking for an internship in the web development and designing field.
 
-I love exploring new front-end technologies and experimenting them with building prototypes.:shipit: </br>
+I love exploring new front-end libraries and experimenting them with building prototypes.:shipit: </br>
 In this lockdown, I attempted to delve myself into learning Data Science and Machine Learning. 🌱</br>
 And have also recently started to practice solving code problems to tackle them in the Coding Rounds.
 
