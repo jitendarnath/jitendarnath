@@ -13,15 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 👋, I am Jitendar Nath <img src="https://camo.githubusercontent.com/b0fa06ee100360ae8811a115c133de7848891e3b/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d776869737065722e676966" width="70" height="70" />
+# Hi there 👋, I am Jitendra Behera <img src="https://camo.githubusercontent.com/b0fa06ee100360ae8811a115c133de7848891e3b/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d776869737065722e676966" width="70" height="70" />
 
 ## About Me:  :alien:
-I am a CS grad based at **B'luru | India**. </br>
-Currently a **UI/UX enthusiast**.</br>
+I am a Systems Engineer based at **B'luru | India**. </br>
+And a certified **Cloud & Devops Practitioner**.</br>
 
-I like to delve deep into product designing and research aspects of UX process specially. 🌱</br>
-In the past I've explored quite a few front-end libraries and experimented with them by building prototypes.:shipit: </br>
+I like to delve deep into infrastructure architectural design and implementation process involving various different tools and technologies for every unique usecase scenario to acheive higher resilency and availability with minimal downtime of application. 🌱</br>
+I  grew a tremendous fascination around the cloud domain and significance of devops culture after having the professional working experience in my orgainzation with continous learning and acheiving multiple cloud certifications.
+
+Prior to my professional journey, As an undergrad in college I had a rich interest in UI/UX and product designing complemented with front-end development that led me to explore and learn few front end technologies like ReactJS and Gatsby plus having a handson practice on design tools like Figma, Framer and AdobeXD. :shipit: </br>
 
 ## Reach Me : </br>
-Would love to have discussions on design related queries and product building processes.
+If you find a similar interest in the area of cloud and devops and see an immense growth potential it proposes for the future or if you'd like to simply connect and have discussions on design related queries or product building processes.
 :handshake: [Linkedin](https://www.linkedin.com/in/jitendarnath/)          
